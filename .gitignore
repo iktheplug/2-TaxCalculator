@@ -1,0 +1,5 @@
+#Ignore compiled Java file
+TaxCalculator.class
+
+#Ignore structure settings
+settings.json
